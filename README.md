@@ -6,7 +6,7 @@ In this project, I have built a comprehensive Tableau dashboard to find out and 
 
 <img width="1359" alt="Superstore_dashboard" src="https://github.com/Kapilchourasiya03/Superstore-sales-analysis/assets/165268497/a1b4d48a-b254-4434-bb38-d7b9a9c906c5">
 
-# Live Dashboard - https://public.tableau.com/views/Superstore-insights/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+Live Dashboard - https://public.tableau.com/views/Superstore-insights/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
 
 
 # 1. Top Performing Categories and Subcategories: 
