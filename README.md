@@ -23,6 +23,9 @@ Specifies the division of orders by demographic groups and sends it in percentag
 6. Quarterly Sales vs.Profit (2018-2022):
 The line graph illustrates the quarterly sales revenue and profit trends over a five-year period. With this, PST financial health performance becomes evaluable and parties can trace seasonal trends or differences.
 
+<img width="1359" alt="Superstore_dashboard" src="https://github.com/Kapilchourasiya03/Superstore-sales-analysis/assets/165268497/a1b4d48a-b254-4434-bb38-d7b9a9c906c5">
+
+
 The dashboard is a single comprehensive tool for stakeholders to gain operational awareness in their sales performance and other dimensions of this business like customers segmentation and profitability. It achieves that by means of graphics illustration of key metrics and trend movements, which empower the management team to increase operations performance, boost revenue and improve the customer satisfaction of the Superstore.
 
 
