@@ -1,10 +1,12 @@
 ## Comprehensive Sales and Customer Analytics Dashboard for Superstore
 
 Description:
-In this project, I have built a comprehensive Tableau dashboard to find out and analyze the sales performance over the years in the Supermarket. The dashboard highlights key insights across various dimensions which will enable stakeholders to make data-driven decisions and improve the business strategies.
+In this project, I have built a comprehensive Tableau dashboard to find out and analyze the sales performance over the years in the Supermarket. The dashboard highlights key insights across various dimensions, which will enable stakeholders to make data-driven decisions and improve their business strategies.
 
 
 <img width="1359" alt="Superstore_dashboard" src="https://github.com/Kapilchourasiya03/Superstore-sales-analysis/assets/165268497/a1b4d48a-b254-4434-bb38-d7b9a9c906c5">
+
+# Live Dashboard - https://public.tableau.com/views/Superstore-insights/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
 
 
 # 1. Top Performing Categories and Subcategories: 
@@ -18,10 +20,10 @@ Spots the best selling position by the sales revenue of products and offers the 
 Identifies the most profitable customers by taking their profit contributions into account. This helps the businesses with specific customer management focus and targeted marketing schemes as well as draws the line on marketing efforts.
 
 # 4. Segment Distribution by Region:
-Shows the customer segments of each area based on the combination of the economic, cultural and technology factors of all four regions, providing a picture of regional customers' preferences along with marketing stratification.
+Shows the customer segments of each area based on the combination of the economic, cultural, and technology factors of all four regions, providing a picture of regional customers' preferences along with marketing stratification.
 
 # 5. Order Segment Distribution:
-Specifies the division of orders by demographic groups and sends it in percentage form depending on the number of orders. By wrapping up this analysis, it is possible to figure out the consumer segmentation behavior and to what extent it is maintaining the sales.
+Specifies the division of orders by demographic groups and sends it in percentage form depending on the number of orders. By wrapping up this analysis, it is possible to figure out the consumer segmentation behavior and to what extent it is maintaining sales.
 
 # 6. Quarterly Sales vs.Profit (2018-2022):
 The line graph illustrates the quarterly sales revenue and profit trends over a five-year period. With this, PST financial health performance becomes evaluable and parties can trace seasonal trends or differences.
