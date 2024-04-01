@@ -4,6 +4,9 @@ Description:
 In this project, I have built a comprehensive Tableau dashboard to find out and analyze the sales performance over the years in the Supermarket. The dashboard highlights key insights across various dimensions which will enable stakeholders to make data-driven decisions and improve the business strategies.
 
 
+<img width="1359" alt="Superstore_dashboard" src="https://github.com/Kapilchourasiya03/Superstore-sales-analysis/assets/165268497/a1b4d48a-b254-4434-bb38-d7b9a9c906c5">
+
+
 1. Top Performing Categories and Subcategories: 
 Identifies the top three product categories and subcategories by net income, thus letting managers and other key figures direct funds towards successful lines of products.
 
@@ -22,8 +25,6 @@ Specifies the division of orders by demographic groups and sends it in percentag
 
 6. Quarterly Sales vs.Profit (2018-2022):
 The line graph illustrates the quarterly sales revenue and profit trends over a five-year period. With this, PST financial health performance becomes evaluable and parties can trace seasonal trends or differences.
-
-<img width="1359" alt="Superstore_dashboard" src="https://github.com/Kapilchourasiya03/Superstore-sales-analysis/assets/165268497/a1b4d48a-b254-4434-bb38-d7b9a9c906c5">
 
 
 The dashboard is a single comprehensive tool for stakeholders to gain operational awareness in their sales performance and other dimensions of this business like customers segmentation and profitability. It achieves that by means of graphics illustration of key metrics and trend movements, which empower the management team to increase operations performance, boost revenue and improve the customer satisfaction of the Superstore.
